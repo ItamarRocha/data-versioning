@@ -1,0 +1,4 @@
+[core]
+    remote = random_dataset
+['remote "random_dataset"']
+    url = gs://hw2-bucket-ac215-itamar/dvc_store
